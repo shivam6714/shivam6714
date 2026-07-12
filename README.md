@@ -129,9 +129,8 @@ A responsive Spotify-inspired music player interface built using HTML, CSS, and 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam6714&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam6714&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</p>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=shivam6714&show_icons=true&theme=github_dark&hide_border=true" /> 
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shivam6714&layout=compact&theme=github_dark&hide_border=true" /></p>
 
 ---
 
