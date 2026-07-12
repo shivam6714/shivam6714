@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Shivam Khajuria 👋</h1>
 
 <p align="center">
-Computer Science Engineering Student • Full Stack Developer • MERN Learner
+  <strong>Computer Science Engineering Student • Full Stack Developer • MERN Learner</strong>
 </p>
 
 <p align="center">
-I enjoy building modern web applications, solving algorithmic problems, and continuously learning new technologies.
+Building modern web applications, solving algorithmic problems, and continuously improving through hands-on projects.
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@ I enjoy building modern web applications, solving algorithmic problems, and cont
 
 ## About Me
 
-I'm a third-year Computer Science Engineering student at **Model Institute of Engineering and Technology** with a strong interest in software development and problem solving.
+I'm a **third-year Computer Science Engineering student** at **Model Institute of Engineering and Technology**.
 
-Currently, I'm expanding my skills in the **MERN Stack** while building practical web applications that solve real-world problems. Alongside development, I regularly practice **Data Structures and Algorithms in C++** and enjoy learning modern technologies by building projects.
+I'm passionate about building modern web applications and continuously expanding my knowledge of software development. Currently, I'm learning the **MERN Stack** while strengthening my understanding of **Data Structures & Algorithms** using C++ through consistent problem-solving and project development.
 
 ---
 
@@ -62,9 +62,9 @@ Currently, I'm expanding my skills in the **MERN Stack** while building practica
 
 # Featured Projects
 
-## EchoScribe
+## 🎤 EchoScribe
 
-An accessibility-focused web application that converts spoken input into clean, readable text to assist users with speech impairments.
+An accessibility-focused web application that converts spoken input into clean, readable text, making communication easier for users with speech impairments.
 
 **Technologies**
 
@@ -83,9 +83,9 @@ An accessibility-focused web application that converts spoken input into clean, 
 
 ---
 
-## Study Assistant
+## 📚 Study Assistant
 
-A study platform that enables students to upload PDF documents and generate AI-powered summaries, flashcards, quizzes, notes, and interact with documents through an intelligent chat interface.
+An AI-powered learning platform that enables students to upload PDF documents and generate summaries, quizzes, flashcards, notes, and interact with their study material through an AI chat interface.
 
 **Technologies**
 
@@ -103,9 +103,9 @@ A study platform that enables students to upload PDF documents and generate AI-p
 
 ---
 
-## Spotify Clone
+## 🎵 Spotify Clone
 
-A responsive Spotify-inspired frontend interface created to strengthen HTML, CSS, and JavaScript fundamentals by recreating the core user experience of a modern music streaming application.
+A responsive Spotify-inspired music player interface built using HTML, CSS, and JavaScript to strengthen frontend development fundamentals and recreate a modern streaming application.
 
 **Technologies**
 
@@ -126,22 +126,25 @@ A responsive Spotify-inspired frontend interface created to strengthen HTML, CSS
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivam6714&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam6714&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam6714&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam6714&layout=compact&theme=github_dark&hide_border=true" height="170" />
 </p>
 
 ---
 
-## Let's Connect
+## Connect With Me
 
 - 🌐 Portfolio: https://portfolio-67r.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/shivam-khajuria-1839b4333
 - 💻 GitHub: https://github.com/shivam6714
+- 💼 LinkedIn: https://www.linkedin.com/in/shivam-khajuria-1839b4333
+- 🧩 LeetCode: https://leetcode.com/u/BUcdupGiRk/
 - 📧 Email: shivamkhajuria238@gmail.com
 
 ---
 
-> *"Always learning, always building."*
+<p align="center">
+  Thanks for visiting my profile.
+</p>
