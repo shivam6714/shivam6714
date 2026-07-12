@@ -26,38 +26,32 @@ I'm passionate about building modern web applications and continuously expanding
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
-### Languages
-
+### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,js" />
 </p>
 
-### Frontend
-
+### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### Backend
-
+### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
-
+### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### Tools
-
+### 🛠️ Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
 ---
 
 # Featured Projects
