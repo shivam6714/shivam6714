@@ -1,49 +1,32 @@
-<div align="center">
+<h1 align="center">Hi, I'm Shivam Khajuria 👋</h1>
 
-# Hi there, I'm Shivam Khajuria 👋
-
-### 💻 Computer Science Engineering Student | Full Stack Developer | MERN Learner
-
-<p>
-  <a href="https://portfolio-67r.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/shivam6714">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shivam-khajuria-1839b4333">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/BUcdupGiRk/">
-    <img src="https://img.shields.io/badge/LeetCode-230%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+<p align="center">
+Computer Science Engineering Student • Full Stack Developer • MERN Learner
 </p>
 
-</div>
+<p align="center">
+I enjoy building modern web applications, solving algorithmic problems, and continuously learning new technologies.
+</p>
+
+<p align="center">
+  <a href="https://portfolio-67r.vercel.app/">Portfolio</a> •
+  <a href="https://github.com/shivam6714">GitHub</a> •
+  <a href="https://www.linkedin.com/in/shivam-khajuria-1839b4333">LinkedIn</a> •
+  <a href="https://leetcode.com/u/BUcdupGiRk/">LeetCode</a> •
+  <a href="mailto:shivamkhajuria238@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a **3rd Year Computer Science Engineering student** at **Model Institute of Engineering and Technology** with a passion for building modern web applications and solving challenging programming problems.
+I'm a third-year Computer Science Engineering student at **Model Institute of Engineering and Technology** with a strong interest in software development and problem solving.
 
-- 🌱 Currently learning **MERN Stack**
-- 💻 Building full-stack web applications
-- 🧩 Solved **230+ LeetCode** problems in C++
-- ⚡ Interested in AI-powered applications and modern web technologies
-- 🎯 Actively seeking Software Development Internship opportunities
+Currently, I'm expanding my skills in the **MERN Stack** while building practical web applications that solve real-world problems. Alongside development, I regularly practice **Data Structures and Algorithms in C++** and enjoy learning modern technologies by building projects.
 
 ---
 
-## 🌐 Portfolio
-
-🔗 **Portfolio Website**
-
-**https://portfolio-67r.vercel.app/**
-
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -77,97 +60,88 @@ I'm a **3rd Year Computer Science Engineering student** at **Model Institute of 
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
-## 🎤 EchoScribe
+## EchoScribe
 
-AI-powered accessibility application that converts speech into clean, readable text for people with speech impairments.
+An accessibility-focused web application that converts spoken input into clean, readable text to assist users with speech impairments.
 
-**Tech Stack**
+**Technologies**
 
 - React
-- Node.js
-- MongoDB
+- JavaScript
+- Local Storage
+- Web Speech API
 
 **Repository**
 
-https://github.com/shivam6714/Echoscribe
+🔗 https://github.com/shivam6714/Echoscribe
 
 **Live Demo**
 
-https://echoscribe-nine.vercel.app/
+🌐 https://echoscribe-nine.vercel.app/
 
 ---
 
-## 📚 Study Assistant
+## Study Assistant
 
-An AI-powered study platform capable of interacting with uploaded PDFs through AI-generated notes, quizzes, flashcards, and document chat.
+A study platform that enables students to upload PDF documents and generate AI-powered summaries, flashcards, quizzes, notes, and interact with documents through an intelligent chat interface.
 
-**Features**
+**Technologies**
 
-- AI Chat with PDFs
-- Flashcards
-- Quiz Generation
-- Smart Notes
-- PDF Upload
+- React
+- JavaScript
+- Local Storage
 
 **Repository**
 
-https://github.com/shivam6714/study-assistant
+🔗 https://github.com/shivam6714/study-assistant
 
 **Live Demo**
 
-https://study-assistant-lyart.vercel.app/
+🌐 https://study-assistant-lyart.vercel.app/
 
 ---
 
-## 🎵 Spotify Clone
+## Spotify Clone
 
-A responsive Spotify-inspired frontend built to practice modern UI development using React.
+A responsive Spotify-inspired frontend interface created to strengthen HTML, CSS, and JavaScript fundamentals by recreating the core user experience of a modern music streaming application.
+
+**Technologies**
+
+- HTML
+- CSS
+- JavaScript
 
 **Repository**
 
-https://github.com/shivam6714/Spotify-clone
+🔗 https://github.com/shivam6714/Spotify-clone
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivam6714&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam6714&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam6714&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 📜 Certifications
+## Certifications
 
 - IBM AI Developer Professional Certificate
 - IBM Software Developer Career Guide and Interview Preparation
 
 ---
 
-## 📫 Connect With Me
+## GitHub Statistics
 
-- 📧 Email: **shivamkhajuria238@gmail.com**
-- 🌐 Portfolio: **https://portfolio-67r.vercel.app/**
-- 💼 LinkedIn: **https://www.linkedin.com/in/shivam-khajuria-1839b4333**
-- 💻 GitHub: **https://github.com/shivam6714**
-- 🧩 LeetCode: **https://leetcode.com/u/BUcdupGiRk/**
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivam6714&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam6714&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+## Let's Connect
 
-### ⭐ Thanks for visiting my profile!
+- 🌐 Portfolio: https://portfolio-67r.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/shivam-khajuria-1839b4333
+- 💻 GitHub: https://github.com/shivam6714
+- 📧 Email: shivamkhajuria238@gmail.com
 
-*"Code. Learn. Build. Repeat."*
+---
 
-</div>
+> *"Always learning, always building."*
