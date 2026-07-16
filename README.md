@@ -97,6 +97,7 @@ I'm highly passionate about building modern full-stack web applications, solving
 </p>
 
 #### 🐍 Contribution Snake
+#### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shivam6714/shivam6714/main/github-contribution-grid-snake-dark.svg" onerror="this.src='https://raw.githubusercontent.com/shivam6714/shivam6714/output/github-contribution-grid-snake-dark.svg'" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/shivam6714/shivam6714/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
