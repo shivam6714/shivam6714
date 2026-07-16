@@ -85,11 +85,11 @@ I'm highly passionate about building modern full-stack web applications, solving
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam6714&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=shivam6714&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam6714&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shivam6714&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
