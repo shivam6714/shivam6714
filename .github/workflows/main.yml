@@ -9,12 +9,21 @@ on:
     branches:
     - main
 
+# Explicitly grant the runner permission to write files back to your profile repo
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
     steps:
+      # Step 1: Clone your repo into the workflow runner so git is initialized
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Step 2: Generate the interactive snake SVGs
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -23,8 +32,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
+      # Step 3: Push the graphics files up to your 'output' branch (Upgraded to v4)
       - name: Push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
