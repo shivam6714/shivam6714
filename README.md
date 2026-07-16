@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Shivam%20Khajuria&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
