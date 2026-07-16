@@ -21,11 +21,11 @@
 
 I am a third-year **Computer Science Engineering student** at **Model Institute of Engineering and Technology (MIET), Jammu**, based in Jammu, India. 
 
-I'm highly passionate about building modern full-stack web applications, solving algorithmic puzzles, and continuously improving through hands-on software development[cite: 1]. 
+I'm highly passionate about building modern full-stack web applications, solving algorithmic puzzles, and continuously improving through hands-on software development. 
 
-* 🚀 **Current Focus:** Mastering the MERN Stack & strengthening Data Structures & Algorithms (DSA) skills using C++[cite: 1].
-* 💡 **Active Project:** Developing **AlgoAtlas** alongside other full-stack applications[cite: 1].
-* 🎯 **Ultimate Objective:** Building production-ready systems that solve real-world problems[cite: 1].
+* 🚀 **Current Focus:** Mastering the MERN Stack & strengthening Data Structures & Algorithms (DSA) skills using C++.
+* 💡 **Active Project:** Developing **AlgoAtlas** alongside other full-stack applications.
+* 🎯 **Ultimate Objective:** Building production-ready systems that solve real-world problems.
 
 ---
 
@@ -48,33 +48,33 @@ I'm highly passionate about building modern full-stack web applications, solving
 ### 🚀 Featured Projects
 
 #### 🎙️ **EchoScribe**
-* **Description:** A feature-rich speech-to-text web application focused extensively on accessibility. Built using React and the Web Speech API to empower users with seamless, real-time voice transcriptions[cite: 1].
-* **Links:** [📁 GitHub Repository](https://github.com/shivam6714/Echoscribe) | [🌐 Live Demo](https://echoscribe-nine.vercel.app/)[cite: 1]
+* **Description:** A feature-rich speech-to-text web application focused extensively on accessibility. Built using React and the Web Speech API to empower users with seamless, real-time voice transcriptions.
+* **Links:** [📁 GitHub Repository](https://github.com/shivam6714/Echoscribe) | [🌐 Live Demo](https://echoscribe-nine.vercel.app/)
 
 #### 🧠 **Study Assistant**
-* **Description:** An AI-powered comprehensive study platform designed to assist students in summarizing long PDFs, generating custom interactive quizzes, creating flashcards, and chatting dynamically with their study notes[cite: 1].
-* **Links:** [📁 GitHub Repository](https://github.com/shivam6714/study-assistant) | [🌐 Live Demo](https://study-assistant-lyart.vercel.app/)[cite: 1]
+* **Description:** An AI-powered comprehensive study platform designed to assist students in summarizing long PDFs, generating custom interactive quizzes, creating flashcards, and chatting dynamically with their study notes.
+* **Links:** [📁 GitHub Repository](https://github.com/shivam6714/study-assistant) | [🌐 Live Demo](https://study-assistant-lyart.vercel.app/)
 
 #### 🎵 **Spotify Clone**
-* **Description:** A fully responsive, pixel-perfect Spotify-inspired web music player built from the ground up to practice pristine interface design and audio controls[cite: 1].
-* **Links:** [📁 GitHub Repository](https://github.com/shivam6714/Spotify-clone)[cite: 1]
+* **Description:** A fully responsive, pixel-perfect Spotify-inspired web music player built from the ground up to practice pristine interface design and audio controls.
+* **Links:** [📁 GitHub Repository](https://github.com/shivam6714/Spotify-clone)
 
 ---
 
 ### 🎓 Certifications
 
-* 📜 **IBM AI Developer Professional Certificate**[cite: 1]
-* 📜 **IBM Software Developer Career Guide and Interview Preparation**[cite: 1]
+* 📜 **IBM AI Developer Professional Certificate**
+* 📜 **IBM Software Developer Career Guide and Interview Preparation**
 
 ---
 
 ### 🎯 Current Milestones & Goals
 
-- [x] Master MERN Stack Foundations[cite: 1]
-- [/] Build **AlgoAtlas** *(In Progress)*[cite: 1]
-- [/] Solve 500+ DSA Problems *(Actively Grinding)*[cite: 1]
-- [ ] Contribute to Open Source Frameworks[cite: 1]
-- [ ] Secure a Software Engineering Internship[cite: 1]
+- [x] Master MERN Stack Foundations
+- [/] Build **AlgoAtlas** *(In Progress)*
+- [/] Solve 500+ DSA Problems *(Actively Grinding)*
+- [ ] Contribute to Open Source Frameworks
+- [ ] Secure a Software Engineering Internship
 
 ---
 
