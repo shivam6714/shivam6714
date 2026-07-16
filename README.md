@@ -20,21 +20,24 @@
 
 ---
 
-## 💻 Developer Dashboard
+````md
+## 🟩 Developer Dashboard
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 👨‍💻 About Me
 
 ```bash
-shivam@github:~$ whoami
+> whoami
 
-Computer Science Engineering Student
-Full Stack Developer
-MERN Stack Learner
-Passionate about DSA & Web Development
+Name      : Shivam Khajuria
+Role      : Full Stack Developer
+Education : B.Tech CSE (3rd Year)
+Location  : Jammu, India
+Focus     : MERN • React • DSA
 ```
 
 </td>
@@ -43,25 +46,52 @@ Passionate about DSA & Web Development
 
 ### 🎯 Current Focus
 
-- 🟢 React & Node.js
-- 🟢 MongoDB
-- 🟢 Express
-- 🟢 DSA in C++
-- 🟢 Building **AlgoAtlas**
+```yaml
+Learning:
+  - MERN Stack
+  - React
+  - Node.js
+
+Building:
+  - AlgoAtlas
+
+Goal:
+  - Software Engineering Internship
+```
 
 </td>
+
 </tr>
 
 <tr>
-<td valign="top">
 
-### 🛠 Tech Stack
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman"/>
+### ⚡ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman" />
+</p>
 
 </td>
 
-<td valign="top">
+<td width="50%" valign="top">
+
+### 🏆 Achievements
+
+- 🎓 IBM AI Developer Professional Certificate
+- 📚 IBM Software Developer Career Guide
+- 💻 Building real-world web applications
+- 🧩 Solving DSA problems consistently
+
+</td>
+
+</tr>
+
+</table>
+````
+
+
 
 ### 🏆 Certifications
 
