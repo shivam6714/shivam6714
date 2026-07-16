@@ -1,30 +1,17 @@
+
 <div align="center">
 
 <h1>🟩 Shivam Khajuria</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;MERN+Stack+Learner;DSA+Enthusiast;Building+AlgoAtlas"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;MERN+Stack+Learner;DSA+Enthusiast;Building+AlgoAtlas"/>
 
 <br>
 
-<a href="https://portfolio-67r.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-<a href="https://github.com/shivam6714">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=39FF14"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shivam-khajuria-1839b4333">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:shivamkhajuria238@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://leetcode.com/u/BUcdupGiRk/">
-<img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=39FF14"/>
-</a>
+<a href="https://portfolio-67r.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="https://github.com/shivam6714"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
+<a href="https://www.linkedin.com/in/shivam-khajuria-1839b4333"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:shivamkhajuria238@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="https://leetcode.com/u/BUcdupGiRk/"><img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=39FF14"/></a>
 
 </div>
 
@@ -34,61 +21,78 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ### 👨‍💻 About Me
 
+> I'm a third-year Computer Science Engineering student passionate about building modern web applications and continuously improving through hands-on projects. I enjoy creating polished user experiences while strengthening my knowledge of full-stack development and Data Structures & Algorithms.
+
 ```bash
-> whoami
+$ whoami
 
 Name      : Shivam Khajuria
 Role      : Full Stack Developer
 Education : B.Tech CSE (3rd Year)
 Location  : Jammu, India
-Focus      : MERN • React • DSA
 ```
 
 </td>
 
-<td width="50%" valign="top">
+<td width="4%"></td>
+
+<td width="48%" valign="top">
 
 ### 🎯 Current Focus
 
+> My current focus is mastering the MERN stack, building **AlgoAtlas**, solving DSA problems consistently, and preparing for software engineering internship opportunities.
+
 ```yaml
 Learning:
-  - MERN Stack
   - React
   - Node.js
+  - Express
+  - MongoDB
 
 Building:
   - AlgoAtlas
 
-Goal:
-  - Software Engineering Internship
+Daily:
+  - Code
+  - Learn
+  - Improve
 ```
 
 </td>
 </tr>
 
+<tr><td colspan="3"><br></td></tr>
+
 <tr>
-<td width="50%" valign="top">
+
+<td width="48%" valign="top">
 
 ### ⚡ Tech Stack
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman"/>
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="4%"></td>
 
-### 🏆 Certifications
+<td width="48%" valign="top">
+
+### 🏆 Highlights
 
 - 🎓 IBM AI Developer Professional Certificate
 - 📚 IBM Software Developer Career Guide
-- 💻 Building modern web applications
-- 🧩 Consistently solving DSA problems
+- 🚀 Building **AlgoAtlas**
+- 💻 Full Stack Development
+- 🧩 Daily DSA Practice
 
 </td>
+
 </tr>
 </table>
 
@@ -96,68 +100,11 @@ Goal:
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-## 🎤 EchoScribe
-
-Accessibility-focused speech-to-text application.
-
-**Stack**
-
-- React
-- JavaScript
-- Web Speech API
-
-**Repository**  
-https://github.com/shivam6714/Echoscribe
-
-**Live Demo**  
-https://echoscribe-nine.vercel.app/
-
-</td>
-
-<td width="33%" valign="top">
-
-## 📚 Study Assistant
-
-AI-powered learning platform.
-
-**Features**
-
-- PDF Upload
-- AI Summary
-- Flashcards
-- Notes
-- Quiz Generation
-
-**Repository**  
-https://github.com/shivam6714/study-assistant
-
-**Live Demo**  
-https://study-assistant-lyart.vercel.app/
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🎵 Spotify Clone
-
-Responsive Spotify-inspired music player.
-
-**Stack**
-
-- HTML
-- CSS
-- JavaScript
-
-**Repository**  
-https://github.com/shivam6714/Spotify-clone
-
-</td>
-</tr>
-</table>
+| Project | Description |
+|---------|-------------|
+| 🎤 **EchoScribe** | Accessibility-focused speech-to-text application built with React and the Web Speech API.<br><br>**Repo:** https://github.com/shivam6714/Echoscribe<br>**Live:** https://echoscribe-nine.vercel.app/ |
+| 📚 **Study Assistant** | AI-powered learning platform with PDF summaries, flashcards, quizzes, and notes.<br><br>**Repo:** https://github.com/shivam6714/study-assistant<br>**Live:** https://study-assistant-lyart.vercel.app/ |
+| 🎵 **Spotify Clone** | Responsive Spotify-inspired music player built with HTML, CSS, and JavaScript.<br><br>**Repo:** https://github.com/shivam6714/Spotify-clone |
 
 ---
 
@@ -185,16 +132,6 @@ https://github.com/shivam6714/Spotify-clone
 - ✅ Solve 300+ DSA Problems
 - ✅ Contribute to Open Source
 - ✅ Secure a Software Engineering Internship
-
----
-
-# 📬 Contact
-
-- 🌐 Portfolio: https://portfolio-67r.vercel.app/
-- 💻 GitHub: https://github.com/shivam6714
-- 💼 LinkedIn: https://www.linkedin.com/in/shivam-khajuria-1839b4333
-- 🧩 LeetCode: https://leetcode.com/u/BUcdupGiRk/
-- 📧 Email: shivamkhajuria238@gmail.com
 
 ---
 
