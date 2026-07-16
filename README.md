@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:[shivamkhajuria238@gmail.com](mailto:shivamkhajuria238@gmail.com)">
+<a href="mailto:shivamkhajuria238@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -34,7 +34,6 @@
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 👨‍💻 About Me
@@ -69,18 +68,14 @@ Goal:
 ```
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### ⚡ Tech Stack
 
-<p>
 <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman"/>
-</p>
 
 </td>
 
@@ -88,13 +83,12 @@ Goal:
 
 ### 🏆 Certifications
 
-* 🎓 IBM AI Developer Professional Certificate
-* 📚 IBM Software Developer Career Guide
-* 💻 Building modern web applications
-* 🧩 Consistently solving DSA problems
+- 🎓 IBM AI Developer Professional Certificate
+- 📚 IBM Software Developer Career Guide
+- 💻 Building modern web applications
+- 🧩 Consistently solving DSA problems
 
 </td>
-
 </tr>
 </table>
 
@@ -104,7 +98,6 @@ Goal:
 
 <table>
 <tr>
-
 <td width="33%" valign="top">
 
 ## 🎤 EchoScribe
@@ -113,16 +106,14 @@ Accessibility-focused speech-to-text application.
 
 **Stack**
 
-* React
-* JavaScript
-* Web Speech API
+- React
+- JavaScript
+- Web Speech API
 
-**Repository**
-
+**Repository**  
 https://github.com/shivam6714/Echoscribe
 
-**Live Demo**
-
+**Live Demo**  
 https://echoscribe-nine.vercel.app/
 
 </td>
@@ -135,18 +126,16 @@ AI-powered learning platform.
 
 **Features**
 
-* PDF Upload
-* AI Summary
-* Flashcards
-* Notes
-* Quiz Generation
+- PDF Upload
+- AI Summary
+- Flashcards
+- Notes
+- Quiz Generation
 
-**Repository**
-
+**Repository**  
 https://github.com/shivam6714/study-assistant
 
-**Live Demo**
-
+**Live Demo**  
 https://study-assistant-lyart.vercel.app/
 
 </td>
@@ -159,16 +148,14 @@ Responsive Spotify-inspired music player.
 
 **Stack**
 
-* HTML
-* CSS
-* JavaScript
+- HTML
+- CSS
+- JavaScript
 
-**Repository**
-
+**Repository**  
 https://github.com/shivam6714/Spotify-clone
 
 </td>
-
 </tr>
 </table>
 
@@ -177,44 +164,37 @@ https://github.com/shivam6714/Spotify-clone
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivam6714&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam6714&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=shivam6714&theme=chartreuse-dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam6714&theme=chartreuse-dark&hide_border=true"/>
-
 </p>
 
 ---
 
 # 🌱 2026 Goals
 
-* ✅ Master the MERN Stack
-* ✅ Complete AlgoAtlas
-* ✅ Solve 300+ DSA Problems
-* ✅ Contribute to Open Source
-* ✅ Secure a Software Engineering Internship
+- ✅ Master the MERN Stack
+- ✅ Complete AlgoAtlas
+- ✅ Solve 300+ DSA Problems
+- ✅ Contribute to Open Source
+- ✅ Secure a Software Engineering Internship
 
 ---
 
 # 📬 Contact
 
-* 🌐 Portfolio: https://portfolio-67r.vercel.app/
-* 💻 GitHub: https://github.com/shivam6714
-* 💼 LinkedIn: https://www.linkedin.com/in/shivam-khajuria-1839b4333
-* 🧩 LeetCode: https://leetcode.com/u/BUcdupGiRk/
-* 📧 Email: [shivamkhajuria238@gmail.com](mailto:shivamkhajuria238@gmail.com)
+- 🌐 Portfolio: https://portfolio-67r.vercel.app/
+- 💻 GitHub: https://github.com/shivam6714
+- 💼 LinkedIn: https://www.linkedin.com/in/shivam-khajuria-1839b4333
+- 🧩 LeetCode: https://leetcode.com/u/BUcdupGiRk/
+- 📧 Email: shivamkhajuria238@gmail.com
 
 ---
 
