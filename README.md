@@ -227,7 +227,7 @@ https://github.com/shivam6714/Spotify-clone
 # 🎯 2026 Goals
 
 - ✅ Master MERN Stack
-- ✅ Solve 500+ DSA Problems
+- ✅ Solve 300+ DSA Problems
 - ✅ Contribute to Open Source
 - ✅ Build Production-Ready Projects
 - ✅ Land a Software Engineering Internship
