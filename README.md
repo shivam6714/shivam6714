@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<h1>🟩 Shivam Khajuria</h1>
+# 🟩 Shivam Khajuria
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;MERN+Stack+Learner;DSA+Enthusiast;Building+AlgoAtlas"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;MERN+Stack+Learner;DSA+Enthusiast;Building+AlgoAtlas"/>
 
 <br>
 
@@ -17,61 +17,50 @@
 
 ---
 
-# 🚀 Dashboard
+# 🚀 Developer Dashboard
 
 <table>
 <tr>
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-> I'm a third-year Computer Science Engineering student passionate about building modern web applications and continuously improving through hands-on projects. I enjoy creating polished user experiences while strengthening my knowledge of full-stack development and Data Structures & Algorithms.
+> I'm a third-year Computer Science Engineering student who enjoys turning ideas into polished web applications. My current focus is mastering the MERN stack, improving my DSA skills with C++, and building projects that solve real-world problems. I'm always looking for opportunities to learn, build, and grow as a software engineer.
 
-```bash
-$ whoami
+<br>
 
-Name      : Shivam Khajuria
-Role      : Full Stack Developer
-Education : B.Tech CSE (3rd Year)
-Location  : Jammu, India
-```
+📍 **Jammu, India**
+
+🎓 **MIET Jammu**
+
+💚 **Always Learning**
 
 </td>
 
-<td width="4%"></td>
+<td width="50%" valign="top">
 
-<td width="48%" valign="top">
+## 🎯 Current Focus
 
-### 🎯 Current Focus
+🟢 Learning
+- React
+- Node.js
+- Express
+- MongoDB
 
-> My current focus is mastering the MERN stack, building **AlgoAtlas**, solving DSA problems consistently, and preparing for software engineering internship opportunities.
+🚧 Building
+- AlgoAtlas
+- Portfolio Improvements
 
-```yaml
-Learning:
-  - React
-  - Node.js
-  - Express
-  - MongoDB
-
-Building:
-  - AlgoAtlas
-
-Daily:
-  - Code
-  - Learn
-  - Improve
-```
+🎯 Goal
+- Software Engineering Internship
 
 </td>
 </tr>
 
-<tr><td colspan="3"><br></td></tr>
-
 <tr>
+<td valign="top">
 
-<td width="48%" valign="top">
-
-### ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman"/>
@@ -79,20 +68,16 @@ Daily:
 
 </td>
 
-<td width="4%"></td>
+<td valign="top">
 
-<td width="48%" valign="top">
-
-### 🏆 Highlights
+## 🏆 Certifications
 
 - 🎓 IBM AI Developer Professional Certificate
-- 📚 IBM Software Developer Career Guide
-- 🚀 Building **AlgoAtlas**
-- 💻 Full Stack Development
-- 🧩 Daily DSA Practice
+- 📘 IBM Software Developer Career Guide
+- 💻 Building full-stack web applications
+- 🧩 Consistent DSA practice
 
 </td>
-
 </tr>
 </table>
 
@@ -102,9 +87,9 @@ Daily:
 
 | Project | Description |
 |---------|-------------|
-| 🎤 **EchoScribe** | Accessibility-focused speech-to-text application built with React and the Web Speech API.<br><br>**Repo:** https://github.com/shivam6714/Echoscribe<br>**Live:** https://echoscribe-nine.vercel.app/ |
-| 📚 **Study Assistant** | AI-powered learning platform with PDF summaries, flashcards, quizzes, and notes.<br><br>**Repo:** https://github.com/shivam6714/study-assistant<br>**Live:** https://study-assistant-lyart.vercel.app/ |
-| 🎵 **Spotify Clone** | Responsive Spotify-inspired music player built with HTML, CSS, and JavaScript.<br><br>**Repo:** https://github.com/shivam6714/Spotify-clone |
+| 🎤 **EchoScribe** | Accessibility-focused speech-to-text web application built with React and the Web Speech API. |
+| 📚 **Study Assistant** | AI-powered study platform featuring summaries, quizzes, flashcards and PDF tools. |
+| 🎵 **Spotify Clone** | Responsive Spotify-inspired interface built using HTML, CSS and JavaScript. |
 
 ---
 
@@ -127,20 +112,18 @@ Daily:
 
 # 🌱 2026 Goals
 
-- ✅ Master the MERN Stack
-- ✅ Complete AlgoAtlas
-- ✅ Solve 300+ DSA Problems
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Engineering Internship
+- 🚀 Master the MERN Stack
+- 📚 Solve 500+ DSA Problems
+- 🛠️ Finish AlgoAtlas
+- 🌍 Contribute to Open Source
+- 💼 Secure a Software Engineering Internship
 
 ---
 
 <div align="center">
 
 ```text
-Connection established...
-
-Thanks for visiting my profile.
+Connection Established...
 
 Code • Learn • Build • Repeat 🚀
 ```
