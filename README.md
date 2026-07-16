@@ -78,10 +78,12 @@ I'm highly passionate about building modern full-stack web applications, solving
 
 ---
 
+---
+
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivam6714&theme=matrix&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.shion.dev/?username=shivam6714&theme=matrix&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
