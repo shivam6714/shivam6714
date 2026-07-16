@@ -5,6 +5,13 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-67r.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/shivam-khajuria-1839b4333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/BUcdupGiRk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:shivamkhajuria238@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivam6714&label=Profile+Views&color=39FF14&style=for-the-badge" alt="Profile Views">
 </p>
 
@@ -24,11 +31,17 @@ I'm highly passionate about building modern full-stack web applications, solving
 
 ### 💻 Tech Stack & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman" alt="My Skills" />
-  </a>
-</p>
+#### 🛠️ Languages
+<img src="https://skillicons.dev/icons?i=cpp,js" alt="Languages" />
+
+#### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend" />
+
+#### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend" />
+
+#### 🧰 Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
 
 ---
 
@@ -36,15 +49,15 @@ I'm highly passionate about building modern full-stack web applications, solving
 
 #### 🎙️ **EchoScribe**
 * **Description:** A feature-rich speech-to-text web application focused extensively on accessibility. Built using React and the Web Speech API to empower users with seamless, real-time voice transcriptions.
-* **Links:** [<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white" alt="Repo">](https://github.com/shivam6714/Echoscribe) &nbsp;&nbsp; [<img src="https://img.shields.io/badge/Live-Demo-39FF14?style=flat&logo=vercel&logoColor=black" alt="Live">](https://echoscribe-nine.vercel.app/)
+* **Links:** [📁 GitHub Repository](https://github.com/shivam6714/Echoscribe) | [🌐 Live Demo](https://echoscribe-nine.vercel.app/)
 
 #### 🧠 **Study Assistant**
 * **Description:** An AI-powered comprehensive study platform designed to assist students in summarizing long PDFs, generating custom interactive quizzes, creating flashcards, and chatting dynamically with their study notes.
-* **Links:** [<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white" alt="Repo">](https://github.com/shivam6714/study-assistant) &nbsp;&nbsp; [<img src="https://img.shields.io/badge/Live-Demo-39FF14?style=flat&logo=vercel&logoColor=black" alt="Live">](https://study-assistant-lyart.vercel.app/)
+* **Links:** [📁 GitHub Repository](https://github.com/shivam6714/study-assistant) | [🌐 Live Demo](https://study-assistant-lyart.vercel.app/)
 
 #### 🎵 **Spotify Clone**
 * **Description:** A fully responsive, pixel-perfect Spotify-inspired web music player built from the ground up to practice pristine interface design and audio controls.
-* **Links:** [<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white" alt="Repo">](https://github.com/shivam6714/Spotify-clone)
+* **Links:** [📁 GitHub Repository](https://github.com/shivam6714/Spotify-clone)
 
 ---
 
@@ -68,27 +81,22 @@ I'm highly passionate about building modern full-stack web applications, solving
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivam6714&theme=matrix&no-frame=true&margin-w=10" alt="GitHub Trophies" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam6714&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam6714&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shivam6714&theme=matrix&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivam6714&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam6714&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam6714&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivam6714&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 #### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivam6714/shivam6714/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://portfolio-67r.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/shivam-khajuria-1839b4333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/BUcdupGiRk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:shivamkhajuria238@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
