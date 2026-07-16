@@ -80,11 +80,9 @@ I'm highly passionate about building modern full-stack web applications, solving
 
 ---
 
-### 📊 GitHub Activity & Metrics
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.shion.dev/?username=shivam6714&theme=matrix&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+### 📊 GitHub Activity & Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=shivam6714&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
@@ -98,7 +96,13 @@ I'm highly passionate about building modern full-stack web applications, solving
   <img src="https://streak-stats.demolab.com?user=shivam6714&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-#### 🐍 Contribution Snake
+#### 🏆 Profile Achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="Contributor" />
+  <img src="https://img.shields.io/badge/MERN_Stack-Developer-58A6FF?style=for-the-badge&logo=react&logoColor=white" alt="MERN Dev" />
+  <img src="https://img.shields.io/badge/DSA-Enthusiast-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="DSA" />
+</p>
+
 #### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/shivam6714/shivam6714/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
