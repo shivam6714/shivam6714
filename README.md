@@ -10,6 +10,9 @@
   <a href="https://leetcode.com/u/BUcdupGiRk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"></a>
   <a href="mailto:shivamkhajuria238@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail"></a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivam6714&label=Profile+Views&color=39FF14&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <p align="center">
 Computer Science Engineering Student • MERN Stack • C++
