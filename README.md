@@ -80,18 +80,6 @@ Responsive Spotify-inspired music player.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=shivam6714&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shivam6714&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivam6714&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
----
 
 ## Contribution Graph
 
