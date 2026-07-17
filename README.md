@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-Computer Science Engineering Student • MERN Stack • React • Node.js • MongoDB • C++
+Computer Science Engineering Student • MERN Stack • C++
 </p>
 
 ---
