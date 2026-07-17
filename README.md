@@ -22,27 +22,45 @@ Computer Science Engineering Student • MERN Stack • C++
 
 ## 💻 Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman"/>
 </p>
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+---
 
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+## 🚀 Featured Projects
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+### 🧠 Study Assistant
+An AI-powered study platform that lets students summarize PDFs, chat with notes, generate quizzes, create flashcards, and make studying more interactive.
 
+**🔗 Repo:** https://github.com/shivam6714/study-assistant  
+**🌐 Live:** https://study-assistant-lyart.vercel.app/
 
+---
+
+### 🎙️ EchoScribe
+A speech-to-text web application focused on accessibility, providing fast and accurate real-time voice transcription with a clean, responsive interface.
+
+**🔗 Repo:** https://github.com/shivam6714/Echoscribe  
+**🌐 Live:** https://echoscribe-nine.vercel.app/
+
+---
+
+### 🎵 Spotify Clone
+A responsive Spotify-inspired music player featuring audio playback controls and a polished interface built to closely replicate the Spotify experience.
+
+**🔗 Repo:** https://github.com/shivam6714/Spotify-clone
+
+---
+
+## 🎯 Currently
+
+- 🚧 Building **AlgoAtlas**
+- 📚 Learning the **MERN Stack**
+- 💻 Solving **DSA** problems in C++
+- 🌱 Preparing for Software Engineering Internships
+
+---
 
 ## 🐍 Contributions
 
