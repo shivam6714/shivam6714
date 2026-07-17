@@ -17,31 +17,6 @@ Computer Science Engineering Student • MERN Stack • React • Node.js • Mo
 
 ---
 
-## 🚀 Projects
-
-### 🧠 Study Assistant
-An AI-powered study platform that helps students summarize PDFs, chat with notes, generate quizzes, create flashcards, and make studying more interactive through an intuitive interface.
-
-**🔗 Repo:** https://github.com/shivam6714/study-assistant  
-**🌐 Live:** https://study-assistant-lyart.vercel.app/
-
----
-
-### 🎙️ EchoScribe
-A modern speech-to-text web application focused on accessibility, featuring real-time voice transcription, browser-based speech recognition, and a clean responsive interface.
-
-**🔗 Repo:** https://github.com/shivam6714/Echoscribe  
-**🌐 Live:** https://echoscribe-nine.vercel.app/
-
----
-
-### 🎵 Spotify Clone
-A responsive Spotify-inspired music player built to replicate the look and feel of Spotify while implementing audio playback, playlists, and a polished user experience.
-
-**🔗 Repo:** https://github.com/shivam6714/Spotify-clone
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
@@ -50,17 +25,42 @@ A responsive Spotify-inspired music player built to replicate the look and feel 
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧠 Study Assistant
+An AI-powered study platform that lets students summarize PDFs, chat with notes, generate quizzes, create flashcards, and make studying more interactive.
+
+**🔗 Repo:** https://github.com/shivam6714/study-assistant  
+**🌐 Live:** https://study-assistant-lyart.vercel.app/
+
+---
+
+### 🎙️ EchoScribe
+A speech-to-text web application focused on accessibility, providing fast and accurate real-time voice transcription with a clean, responsive interface.
+
+**🔗 Repo:** https://github.com/shivam6714/Echoscribe  
+**🌐 Live:** https://echoscribe-nine.vercel.app/
+
+---
+
+### 🎵 Spotify Clone
+A responsive Spotify-inspired music player featuring audio playback controls and a polished interface built to closely replicate the Spotify experience.
+
+**🔗 Repo:** https://github.com/shivam6714/Spotify-clone
+
+---
+
 ## 🎯 Currently
 
 - 🚧 Building **AlgoAtlas**
 - 📚 Learning the **MERN Stack**
 - 💻 Solving **DSA** problems in C++
-- 🌱 Preparing for Software Engineering internships
+- 🌱 Preparing for Software Engineering Internships
 
 ---
 
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://github.com/shivam6714/shivam6714/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github.com/shivam6714/shivam6714/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
