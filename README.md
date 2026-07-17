@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Khajuria</h1>
+<h1 align="center">Hi, I'm Shivam Khajuria 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Learner;DSA+Enthusiast;Building+AlgoAtlas" />
@@ -12,40 +12,55 @@
 </p>
 
 <p align="center">
-Computer Science Engineering Student • MERN • C++ • React • Node.js • MongoDB
+Computer Science Engineering Student • MERN Stack • React • Node.js • MongoDB • C++
 </p>
 
 ---
 
-### Projects
+## 🚀 Projects
 
-| Project | Links |
-|---------|-------|
-| 🧠 Study Assistant | [Demo](https://study-assistant-lyart.vercel.app/) • [Repo](https://github.com/shivam6714/study-assistant) |
-| 🎙️ EchoScribe | [Demo](https://echoscribe-nine.vercel.app/) • [Repo](https://github.com/shivam6714/Echoscribe) |
-| 🎵 Spotify Clone | [Repo](https://github.com/shivam6714/Spotify-clone) |
+### 🧠 Study Assistant
+An AI-powered study platform that helps students summarize PDFs, chat with notes, generate quizzes, create flashcards, and make studying more interactive through an intuitive interface.
 
----
-
-### Tech
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman" />
-</p>
+**🔗 Repo:** https://github.com/shivam6714/study-assistant  
+**🌐 Live:** https://study-assistant-lyart.vercel.app/
 
 ---
 
-### GitHub
+### 🎙️ EchoScribe
+A modern speech-to-text web application focused on accessibility, featuring real-time voice transcription, browser-based speech recognition, and a clean responsive interface.
+
+**🔗 Repo:** https://github.com/shivam6714/Echoscribe  
+**🌐 Live:** https://echoscribe-nine.vercel.app/
+
+---
+
+### 🎵 Spotify Clone
+A responsive Spotify-inspired music player built to replicate the look and feel of Spotify while implementing audio playback, playlists, and a polished user experience.
+
+**🔗 Repo:** https://github.com/shivam6714/Spotify-clone
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.shion.dev/api?username=shivam6714&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shivam6714&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman"/>
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=shivam6714&theme=chartreuse-dark&hide_border=true"/>
-</p>
+---
+
+## 🎯 Currently
+
+- 🚧 Building **AlgoAtlas**
+- 📚 Learning the **MERN Stack**
+- 💻 Solving **DSA** problems in C++
+- 🌱 Preparing for Software Engineering internships
+
+---
+
+## 🐍 Contributions
 
 <p align="center">
-<img src="https://github.com/shivam6714/shivam6714/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github.com/shivam6714/shivam6714/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
